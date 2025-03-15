@@ -1,1 +1,1 @@
-<h1>align = "center">Amogo Secreto</h1>
+<h1 align= "center">Amigo Secreto</h1>
