@@ -10,3 +10,40 @@
 
 ## Índice
 
+-[Descripción del Proyecto](#descripcón-del-proyecto)
+-[Características Principales](#características-principales)
+-[Tecnologías Utilizadas](#tecnologías-utilizadas)
+-[Instalacion y Uso](#instalación-y-uso)
+-[Autor](#autor)
+
+## Decripcón del Proyecto
+
+**Amigo Secreto** es una aplicación web interactiva que permite a los usuarios ingresar nombres de amigos en una lista y realizar un sorteo aleatorio para determinar quién es su "amigo secreto". Es ideal para organizar intercambios de regalos de forma rápida y divertida.
+
+## Características Pricncipales
+
+- **Agregar nombres**: Los usuarios pueden escribir nombres en un campo de texto y agregarlos a una lista visible con un solo clic.
+- **Validación de entrada**: Si el campo de texto está vacío, se mostrará una alerta pidiendo un nombre válido.
+- **Lista en tiempo real**: Los nombres ingresados se muestran inmediatamente en la pantalla.
+- **Eliminación de nombres**: Posibilidad de eliminar nombres de la lista antes del sorteo.
+- **Sorteo aleatorio**: Al hacer clic en "Sortear Amigo", la aplicación selecciona un nombre de la lista de forma aleatoria y lo muestra en pantalla.
+- **Interfaz intuitiva y amigable**: Diseño limpio y accesible con colores vibrantes y botones interactivos.
+
+## Tecnologías Utilizadas
+
+- **HTML5**: Para la estructura de la aplicación.
+- **CSS3**: Para el diseño y la presentación visual.
+- **JavaScript**: Para la lógica y funcionalidad interactiva.
+
+## Instalación y Uso
+
+1. **Clonar el repositorio**:
+
+   ```bash
+   git clone https://github.com/Edw4rs/amigo-secreto.git
+
+## Autor
+
+Desarrollado por **Edwars Barahona**.
+
+
