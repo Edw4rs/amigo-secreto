@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/github/license/Edw4rs/amigo-secreto" alt="Licencia">
 </p>
 
-##Índice
+## Índice
 
