@@ -2,7 +2,7 @@
 let amigos = [];
 
 //creamos la funcion para agregar amigos
-function agrgarAmigo() {
+function agregarAmigo() {
     //captura el valor de entrada
     const input = document.getElementById("amigo");
     const nombre = input.value.trim();
